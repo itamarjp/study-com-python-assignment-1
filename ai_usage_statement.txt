@@ -1,0 +1,6 @@
+I used ChatGPT to assist with generating and reviewing the code for my Assignment 1 project (Rock, Paper, Scissors game). The AI helped me structure functions, validate user input, and format the game output using emojis.
+
+The final code was reviewed and edited by me.
+
+Tool used: ChatGPT (OpenAI)
+Date: June 2025
